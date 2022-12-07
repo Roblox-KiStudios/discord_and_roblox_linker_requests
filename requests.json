@@ -1,5 +1,10 @@
 {
 
-  "Kurillushka","MiniLord0100","David05286"
+  {
+    violator_user = {name="Kurillushka",id=521983310},
+    moderator_user = {name="MiniLord0100",id=3313585972},
+    reason = "Покакал не в том месте",
+    time = 1670513321
+  },
 
 }
